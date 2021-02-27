@@ -6,7 +6,7 @@
 
 ### Some Useful Links
 [<img align="left" alt="igerm.cn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="wellmoonloft | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Facebook | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="wellmoonloft | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 <br />
@@ -30,5 +30,5 @@
 
 
 [website]: https://www.igerm.com
-[facebook]: https://twitter.com/wellmoonloft
+[facebook]: https://facebook.com/wellmoonloft
 [instagram]: https://instagram.com/wellmoonloft
